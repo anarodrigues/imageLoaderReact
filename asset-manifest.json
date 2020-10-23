@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/load-images-with-react/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/load-images-with-react/static/js/main.10a1369c.chunk.js",
+    "main.js.map": "/load-images-with-react/static/js/main.10a1369c.chunk.js.map",
+    "runtime-main.js": "/load-images-with-react/static/js/runtime-main.58b5eeb2.js",
+    "runtime-main.js.map": "/load-images-with-react/static/js/runtime-main.58b5eeb2.js.map",
+    "static/js/2.5caaed88.chunk.js": "/load-images-with-react/static/js/2.5caaed88.chunk.js",
+    "static/js/2.5caaed88.chunk.js.map": "/load-images-with-react/static/js/2.5caaed88.chunk.js.map",
+    "static/js/3.fad611f6.chunk.js": "/load-images-with-react/static/js/3.fad611f6.chunk.js",
+    "static/js/3.fad611f6.chunk.js.map": "/load-images-with-react/static/js/3.fad611f6.chunk.js.map",
+    "index.html": "/load-images-with-react/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/load-images-with-react/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.5caaed88.chunk.js.LICENSE.txt": "/load-images-with-react/static/js/2.5caaed88.chunk.js.LICENSE.txt",
+    "static/media/logo.103b5fa1.svg": "/load-images-with-react/static/media/logo.103b5fa1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58b5eeb2.js",
+    "static/js/2.5caaed88.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.10a1369c.chunk.js"
+  ]
+}
